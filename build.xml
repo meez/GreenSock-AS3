@@ -7,7 +7,7 @@ Greensock Tweenlite Library
 <!-- Override to avoid conflict -->
 <property name="build.root" location="out"/>
 
-<property name="support.home" location="C:\meez\svn.donnerwood\meeznation-support\trunk"/>
+<property name="support.home" location=".."/>
 <import file="${support.home}/ant/air.xml"/>
 <property file="${support.home}/build.properties"/>
 
